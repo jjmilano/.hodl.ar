@@ -13,7 +13,7 @@ version: 0.3.5 # NO TOCAR
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: "Links | José Milano" # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: "José Milano" # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -31,15 +31,15 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+    url: https://www.instagram.com/jjmilanof1/
 
-# - title: Twitter
-#   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/jjmilano
     
-# - title: LinkedIn # Este es el nombre del botón
-#   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+  - title: LinkedIn # Este es el nombre del botón
+    icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
+    url: https://www.linkedin.com/in/jose-milano-235631111/ # Link a donde redireccionará al hacer click
 
 # - title: Github
 #   icon: github
